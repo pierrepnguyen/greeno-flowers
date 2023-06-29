@@ -19,9 +19,11 @@
   },
   "homepage": "https://github.com/MultiverseLearningProducts/greeno-flowers#readme",
   "dependencies": {
+    "0g": "^0.0.9",
     "chalk": "5.0.1",
     "express": "4.18.1",
-    "morgan": "1.10.0"
+    "morgan": "1.10.0",
+    "npm": "^9.7.2"
   },
   "devDependencies": {
     "nodemon": "2.0.19"
